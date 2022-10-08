@@ -1,0 +1,6 @@
+
+
+Welcome to docker-auto-create-secret script!
+Please write the name of your secret.
+
+===>

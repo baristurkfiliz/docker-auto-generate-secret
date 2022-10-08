@@ -1,0 +1,6 @@
+
+
+!!INVALID NUMBER!!
+Minimum byte = 1
+Maximum byte = 128.000
+

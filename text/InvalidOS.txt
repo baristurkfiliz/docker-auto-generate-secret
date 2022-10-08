@@ -1,0 +1,7 @@
+
+
+Sorry
+This program not support to download other Operation System's download managers.
+You should download python3 MANUALLY
+
+

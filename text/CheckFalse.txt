@@ -1,0 +1,7 @@
+
+
+Your machine can not run python script.
+You need python3.
+Do you want to install python3?(Y/n)
+
+====>
